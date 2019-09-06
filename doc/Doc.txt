@@ -3,7 +3,7 @@ Aqui vamos repassar informações sobre o projeto.
 Sobre o Projeto
 
 Nome: A ser Definido
-Versão Atual: 0.2
+Versão Atual: 0.1
 
 
 	O projeto é um site onde seu conteudo será sobre Musicas.
@@ -36,7 +36,7 @@ projeto, página inicial, login, etc. A pasta SQL onde fica a conexão com o ban
 
 - Menu -
 - Alexandre -
-- 0.2 -  
+- 0.1 -  
 |
 	Barra de menu Criada.
 |

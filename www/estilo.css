@@ -6,6 +6,13 @@
 
 /* ============================ Layout ============================ */
 
+body {
+	border: 3px solid red;
+	background: url(templates/imagens/capa.png), 
+				url(templates/imagens/ruido.png),
+				linear-gradient(50deg,#ff4169, #7c26f8);
+	background-attachment: fixed;
+}
 
 
 /* -- Barra de Navegação -- */
@@ -44,4 +51,25 @@ nav.navbar-transparente {
 	color: #9bf0e1;
 }
 
+/* -- Imagem de Capa -- */
+
+
+
+
+
+
+
+
+
+
 /* ============================ Tipografia ============================ */
+
+
+
+
+
+
+
+
+
+
