@@ -6,12 +6,16 @@
 
 /* ============================ Layout ============================ */
 
+html, body, .capa {
+	height: 100%;
+}
+
 body {
-	border: 3px solid red;
 	background: url(templates/imagens/capa.png), 
 				url(templates/imagens/ruido.png),
 				linear-gradient(50deg,#ff4169, #7c26f8);
 	background-attachment: fixed;
+	font-family: Georgia,Arial,sans-serif;
 }
 
 
@@ -53,7 +57,17 @@ nav.navbar-transparente {
 
 /* -- Imagem de Capa -- */
 
+.capa {
+	display: table;
+	width: 100%
+}
 
+.texto-capa {
+	text-align: center;
+	color: white;
+	display: table-cell;
+	vertical-align: middle;
+}
 
 
 
@@ -64,7 +78,10 @@ nav.navbar-transparente {
 
 /* ============================ Tipografia ============================ */
 
-
+h1 {
+	font-size: 80px;
+	font-weight: 900;
+}
 
 
 
